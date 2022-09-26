@@ -1,0 +1,6 @@
+bases:
+- ../base
+resources:
+- openshift-cert-manager-operator-namespace.yaml
+- openshift-cert-manager-operator-operator-group.yaml
+- openshift-cert-manager-operator-sub.yaml
